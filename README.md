@@ -16,7 +16,7 @@ The server will bind to 0.0.0.0 on port 5052 and start listening for connections
 2. Connect Clients
 In a separate terminal window (or multiple terminal windows), launch the client script:
 Enter a unique username when prompted.   
-Start chatting with other connected clients!   
+Start chatting with other connected clients . . .  
 How to Test:
 Open three separate terminal windows.
 Run server3.py in Terminal 1.   
