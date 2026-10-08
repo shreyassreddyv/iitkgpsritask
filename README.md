@@ -1,4 +1,4 @@
-Basic TCP Chat Application (ChatNet)
+Basic TCP Chat Application (~ChatNet)
 A multithreaded TCP chat application built with Python using the built-in socket and threading modules. It supports real-time message broadcasting across multiple connected clients along with special commands for viewing active users and disconnecting.   
 Features:
 Multi-Client Support: Uses Python's threading module to handle concurrent client connections dynamically.   
